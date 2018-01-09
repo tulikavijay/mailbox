@@ -1,0 +1,13 @@
+div .mailbox{
+  border: 1px solid #D3D3D3;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+ul{
+  list-style-type: none;
+    margin: 20px;
+    padding: 20px;
+}
+li{
+  border-bottom: 1px solid #D3D3D3;
+}
